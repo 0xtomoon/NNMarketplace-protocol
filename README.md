@@ -1,5 +1,5 @@
 # NN NFTMarketplace protocol
-NFTMarketplace which can list, purchase and upgrade NFTs
+NN NFTMarketplace which can list, purchase and upgrade NFTs
 
 
 ## Installation
